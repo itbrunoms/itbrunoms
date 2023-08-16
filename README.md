@@ -6,4 +6,6 @@
 - 👯 I’m looking to learning and collaborate in the community
 - ⚡ Fun fact: I like a coffee
 
-[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,flutter)]
+### My Skills
+
+(https://skills.thijs.gg/icons?i=js,html,css,flutter)
