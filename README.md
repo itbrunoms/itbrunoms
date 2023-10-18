@@ -8,4 +8,4 @@
 
 ### My Skills
 
-[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,flutter,laravel,php,nextjs)](https://programadorbruno.com.br)
+[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,flutter,laravel,php,docker,nextjs,react)](https://programadorbruno.com.br)
