@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&duration=3000&pause=1000&color=39FF14&width=800&lines=Hello+World!;I'm+Bruno Moraes%2C;I'm+a+Software+Architect)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&duration=3000&pause=1000&color=39FF14&width=800&lines=Hello+World!;I'm+Bruno Moraes%2C;I'm+a+Software+Architect)](https://git.io/typing-svg)
 
 ### About
 
