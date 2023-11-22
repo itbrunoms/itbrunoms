@@ -1,8 +1,8 @@
 ## Hey There 👋
 
-Hello! I'm Bruno, a full-stack software architect with over 14 years of experience in technology. Currently, I work with PHP, Laravel, Flutter, but I have expertise in various other technologies. 
+Hello! I'm Bruno, a full-stack software architect with over 14 years of experience in technology. Currently, I work with PHP, Laravel, Flutter, but I have expertise in various other technologies. 🚀
 
-I'm currently based in Brazil, but I'm exploring new horizons worldwide. 
+I'm currently based in Brazil 🇧🇷, but I'm exploring new horizons worldwide. 🔍🌍 
 
 📫 Check out my LinkedIn to learn more about my journey and the projects I've been involved in! [Linkedin](https://www.linkedin.com/in/arquiteto-software-bruno)
 
