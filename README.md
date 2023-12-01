@@ -1,3 +1,5 @@
+![Banner](https://programadorbruno.com.br/assets/images/banner_linkedin.png)
+
 ## Hey There 👋
 
 Hello! I'm Bruno, a full-stack software architect with over 14 years of experience in technology. Currently, I work with PHP, Laravel, Flutter, but I have expertise in various other technologies. 🚀
