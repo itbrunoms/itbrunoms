@@ -1,4 +1,4 @@
-![Banner](https://programadorbruno.com.br/assets/images/banner_linkedin.png)
+![image](https://github.com/user-attachments/assets/6dbc4180-3a06-469a-a60c-d247ae735ab6)
 
 ## Hey There 👋
 
