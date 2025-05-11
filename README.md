@@ -2,7 +2,9 @@
 
 ## Hey There 👋
 
-Hello! I'm Bruno, a full-stack software architect with over 14 years of experience in technology. Currently, I work with PHP, Laravel, Flutter, but I have expertise in various other technologies. 🚀
+Hello! I'm Bruno, a full-stack software architect with hands-on experience in software development since 2018. I currently specialize in PHP, Laravel, and Flutter, but I’ve also worked with a wide range of technologies across web and mobile platforms, such as Node.js, React, Next.js, and more. I truly believe that when you have a solid understanding of programming logic and analytical thinking, you can develop in any language—even Java! 😄 I design and build scalable, maintainable systems—ranging from enterprise solutions and APIs to mobile apps and whitelabel platforms. 
+
+I'm passionate about clean code, architecture, and solving real-world problems through technology. 🚀
 
 I'm currently based in Brazil 🇧🇷, but I'm exploring new horizons worldwide. 🔍🌍 
 
