@@ -2,13 +2,16 @@
 
 ## Hey There 👋
 
-Hello! I'm Bruno, a full-stack software architect with hands-on experience in software development since 2018. I currently specialize in PHP, Laravel, and Flutter, but I’ve also worked with a wide range of technologies across web and mobile platforms, such as Node.js, React, Next.js, and more. I truly believe that when you have a solid understanding of programming logic and analytical thinking, you can develop in any language—even Java! 😄 I design and build scalable, maintainable systems—ranging from enterprise solutions and APIs to mobile apps and whitelabel platforms. 
+Hello! I'm Bruno, a full-stack software architect and senior software developer with hands-on experience in software development since 2018. I specialize in PHP, Laravel, and Flutter, but also have strong experience with modern web and mobile technologies like Node.js, React, Next.js, and Docker.
 
-I'm passionate about clean code, architecture, and solving real-world problems through technology. 🚀
+I build scalable, maintainable systems—from enterprise applications, RESTful APIs, and microservices architectures to mobile apps and whitelabel platforms. I’m passionate about clean code, software architecture, design patterns, and solving real-world problems with technology.
 
-I'm currently based in Brazil 🇧🇷, but I'm exploring new horizons worldwide. 🔍🌍 
+I’m currently based in Brazil 🇧🇷, but I’m open to remote opportunities, international roles, and relocation. 🔍🌍
 
-📫 Check out my LinkedIn to learn more about my journey and the projects I've been involved in! [Linkedin](https://www.linkedin.com/in/arquiteto-software-bruno)
+📫 Check out my [Linkedin](https://www.linkedin.com/in/arquiteto-software-bruno) to learn more about my journey and the projects I’ve been involved in.
+
+Key Skills
+Full-Stack Developer | Software Architect | Senior Backend Developer | PHP Developer | Laravel Expert | Flutter Developer | Mobile Developer | API Developer | REST APIs | Microservices | Clean Code | SOLID Principles | TDD | Docker | Node.js | React.js | Next.js | Software Engineering | Remote Developer | On-site Developer | Open to Relocation | Cloud Applications | Scalable Systems | Cross-Platform Apps | Git | CI/CD | Agile | Certified in Scrum
 
 <br />
 <p align="center">
